@@ -54,7 +54,7 @@ CREATE TABLE student (
 );
 
 -- Insert values into table
-INSERT INTO student(s_name,semester,branch) VALUES ('Parimal',7,'CSE');
+INSERT INTO student(s_name,semester,branch) VALUES ('amit',7,'CSE');
 INSERT INTO student(s_name,semester,branch) VALUES ('A',7,'CSE'),
 						   ('B',7,'IT'),
 						   ('C',7,'IT'),
